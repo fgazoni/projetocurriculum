@@ -1,0 +1,60 @@
+body {
+    background: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color:rgb(16, 9, 9);
+    margin: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.fotoprincipal {
+    width: 220px;
+    border: 3px solid rgb(14, 13, 13);
+    border-radius: 150px;
+    margin: 30px 30px 0px;
+    padding: 0px;
+    box-shadow: 0px 0px 10px #451b1b;
+}
+
+.social-icons{
+    width: 35px;
+    margin-left: 5px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+h1 {
+    margin: 5px 0px 0px 0px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0%;
+    margin-left: 0%;
+    font-style: italic;
+    color: rgb(43 42 42 / 72%);
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+.footer{
+background-color: rgb(71, 69, 69);
+padding: 5px; 
+position:fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+color: white;
+
+}
