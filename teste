@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Felipe Gazoni </title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="profile">
+      <img src="https://images2.imgbox.com/6e/c4/1UOo7BsF_o.jpg" class="fotoprincipal" alt="Foto : Felipe Gazoni">
+      <h1>Felipe Gazoni </h1>
+      <h2>Desenvolvedor </h2>
+
+      <a href="https://www.linkedin.com/in/felipe-gazoni-6a7164b3/" target="_blank" class="social-links" s>
+        <img src="https://img.icons8.com/ios/50/000000/linkedin-2--v1.png" alt="linkedin" class="social-icons">
+      </a>
+      <a href="https://github.com/fgazoni" target="_blank" class="social-links">
+        <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt=github class="social-icons">
+      </a>
+    </div>
+    <p>Olá, sou Felipe Gazoni graduado em Gestão de Tecnologia da Informação e apaixonado pela área de desenvolvimento.
+      Tenho 27 anos, sou nascido no Rio de Janeiro porém resido em Sete Lagoas - MINAS GERAIS.
+    </p>
+    <h3>Competências</h3>
+    <ul>
+      <li>Gestão de T.I</li>
+      <li>Desenvolvimento Web</li>
+      <li>JavaScript</li>
+      <li>Node.JS</li>
+    </ul>
+
+  </div>
+
+  <div class="footer">
+    Copryright © 2022 - Developed by : Felipe Gazoni         
+  </div>
+
+</body>
+
+</html>
